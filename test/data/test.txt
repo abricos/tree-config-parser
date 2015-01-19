@@ -1,0 +1,7 @@
+------------------------
+Begin data
+
+Parsed value: <%= tester.myValue %>
+
+End data
+------------------------
