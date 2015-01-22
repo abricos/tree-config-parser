@@ -7,6 +7,8 @@ var through = require('through');
 
 'use strict';
 
+exports.ParserStream = ParserStream;
+
 exports.parse = function(config){
 
     var parserStream = new ParserStream(config);
