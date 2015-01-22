@@ -36,7 +36,7 @@
     "gulp-mocha": "^2.0.0",
     "gulp-subtree": "^0.1.0",
     "should": "^4.6.0",
-    "tree-config": "^0.2.1",
+    "tree-config": "^0.2.3",
     "vinyl-paths": "^1.0.0"
   },
   "dependencies": {
